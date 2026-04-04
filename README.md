@@ -1,7 +1,7 @@
-# Kabanye-Kabanye
+
 # Hi 👋, I'm Vincent Ngigi Wanjiku
 
-**Backend Developer**** ****| Ethical Hacking Learner**
+#Backend Developer| Ethical Hacking Learner
 
 Computer Science student passionate about building practical web systems, AI-powered tools, and network-based solutions that solve real-world problems. I enjoy working across backend development, intelligent applications, and infrastructure-focused projects.
 
@@ -118,7 +118,9 @@ I am currently strengthening my skills in **ethical hacking** through Cisco Netw
 ## Connect With Me
 
 🔗 LinkedIn: [https://www.linkedin.com/in/dev-vincent-wanjiku/](https://www.linkedin.com/in/dev-vincent-wanjiku/)
+
 🌐 Portfolio: [https://vincent-terminal-portfolio.onrender.com/](https://vincent-terminal-portfolio.onrender.com/)
+
 📧 Email: [ngigivincent2022@gmail.com](mailto:ngigivincent2022@gmail.com)
 
 I’m open to internships, collaborations, and opportunities where I can contribute while continuing to grow as a backend developer and security-focused engineer.
