@@ -1,130 +1,98 @@
+<div align="center">
 
-# Hi 👋, I'm Vincent Ngigi Wanjiku
+# Vincent Ngigi Wanjiku
 
-#Backend Developer| Ethical Hacking Learner
+**Backend Developer · Ethical Hacking Learner · CS Final Year**
 
-Computer Science student passionate about building practical web systems, AI-powered tools, and network-based solutions that solve real-world problems. I enjoy working across backend development, intelligent applications, and infrastructure-focused projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-vincent-wanjiku/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://vincent-terminal-portfolio.onrender.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ngigivincent2022@gmail.com)
 
----
-
-## About Me
-
-* 🎓 Final-year Computer Science student
-* 💻 Backend developer working with **Python, Django, Flask, and FastAPI**
-* ⚛️ Comfortable building interfaces with **React**
-* 📊 Experience integrating **machine learning models** into real applications
-* 📡 Built networking solutions including a **WiFi billing system with M-Pesa integration**
-* 🔐 **Currently learning Ethical Hacking** through Cisco Networking Academy
-
-I enjoy building systems that are practical, deployable, and designed to solve real-world problems beyond the classroom.
+</div>
 
 ---
 
-## Current Focus
-
-* Strengthening backend engineering skills
-* Expanding into secure application development
-* Applying AI models inside production-style web applications
-* Growing deeper skills in **ethical hacking and cybersecurity**
+Computer Science student and backend developer building practical web systems, AI-powered tools, and network-based solutions. I work across backend engineering, intelligent applications, and fintech integrations — and I'm deepening my skills in cybersecurity and ethical hacking.
 
 ---
 
 ## Tech Stack
 
 **Languages**
-Python • JavaScript • HTML • CSS
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Frameworks & Tools**
-Django • Flask • FastAPI • React • Git • Linux (Kali)
 
-**Working With**
-Machine learning integration • REST APIs • Authentication systems • M-Pesa integrations
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
 **Currently Learning**
-Ethical hacking • secure systems design • penetration testing fundamentals
+
+![Cybersecurity](https://img.shields.io/badge/Ethical_Hacking-4CAF50?style=flat&logo=hackthebox&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
 ---
 
 ## Projects
 
-### 🔎 MyFinder App (Smart Shopping Assistant)
+### 🔎 MyFinder — Smart Shopping Assistant
+> An intelligent price comparison platform for Jumia and Kilimall (Kenya), powered by an AI agent and forecasting engine.
 
-An intelligent shopping assistant that helps users compare products across different online stores such as **Killimall** and **Jumia**, helping them make better purchasing decisions.
-
-Key features:
-
-* Product comparison tools
-* Smart filtering and search
-* Recommendation logic
-* **Price prediction using a Prophet forecasting model**
+- Compares products across multiple online stores in real time
+- AI chat agent with Django ORM-based tools for search, recommendations, and alerts
+- Price prediction using **Prophet forecasting** (MAE: KES 229.08)
+- Fuzzy product deduplication with RapidFuzz (85% threshold)
+- SUS usability score: **74.6** — Final year project submission
 
 ---
 
-### 📡 NetPulse (WiFi Billing System)
+### 📡 NetPulse — WiFi Billing System
+> A user access and billing platform for WiFi networks with M-Pesa payment integration.
 
-A WiFi billing platform designed for managing user access and payments with **M-Pesa integration**.
+- Usage-based billing logic with M-Pesa STK push integration
+- User session management and admin monitoring dashboard
+- Built for real deployment in hotspot/ISP environments
 
-Key features:
+---
 
-* User access control
-* Usage-based billing logic
-* M-Pesa payment workflow integration
-* Admin monitoring and management capabilities
+### 🌿 Agri-AI — Crop Disease Detection System
+> A CNN-powered web app that diagnoses crop diseases from plant images and returns actionable guidance.
+
+- Supports multiple crops: Corn, Potato, Cotton, Grape
+- VGG19 deep learning models for high-accuracy classification
+- Returns diagnosis, treatment, and prevention advice in a chat-style interface
 
 ---
 
 ### 🏠 Jangika Rentals App
+> A rental listing and management platform for residential properties.
 
-A rental management and advertising platform for listing available Jangika house rentals.
-
-Key features:
-
-* Vacant room listing system
-* Property visibility for tenants
-* Admin dashboard for records management and tracking
+- Vacant room listings with photo and detail views
+- Admin dashboard for property records management
+- Tenant-facing search and browsing interface
 
 ---
 
-### 🌿 Agri-AI Crop Disease Detection System
+## About Me
 
-A machine-learning-powered web application that detects crop diseases from uploaded plant images and provides diagnosis guidance.
-
-Key features:
-
-* CNN-based disease prediction
-* Multi-crop support
-* Diagnosis, prevention, and treatment suggestions
+- 🎓 Final-year Computer Science student at the **University of Embu**
+- 🔐 Currently studying ethical hacking through **Cisco Networking Academy**
+- 🤖 Experienced integrating ML models (CNNs, Prophet) into production-style web apps
+- 📡 Built networking infrastructure tools including M-Pesa-integrated billing systems
+- 💬 Open to internships, collaborations, and backend engineering opportunities
 
 ---
 
-## Interests
+<div align="center">
 
-I am especially interested in working at the intersection of:
+*Building systems that are practical, deployable, and designed to solve real-world problems.*
 
-* Backend engineering
-* Intelligent systems
-* Fintech-style integrations (such as M-Pesa workflows)
-* Networking tools and infrastructure systems
-* Cybersecurity and ethical hacking
-
----
-
-## Cybersecurity Learning Journey
-
-I am currently strengthening my skills in **ethical hacking** through Cisco Networking Academy while continuing to practice networking concepts, system troubleshooting, and secure application development alongside my software engineering work.
-
----
-
-## Connect With Me
-
-🔗 LinkedIn: [https://www.linkedin.com/in/dev-vincent-wanjiku/](https://www.linkedin.com/in/dev-vincent-wanjiku/)
-
-🌐 Portfolio: [https://vincent-terminal-portfolio.onrender.com/](https://vincent-terminal-portfolio.onrender.com/)
-
-📧 Email: [ngigivincent2022@gmail.com](mailto:ngigivincent2022@gmail.com)
-
-I’m open to internships, collaborations, and opportunities where I can contribute while continuing to grow as a backend developer and security-focused engineer.
-
----
-
-⭐ Thanks for visiting my profile!
+</div>
