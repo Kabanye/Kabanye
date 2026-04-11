@@ -2,7 +2,7 @@
 
 # Vincent Ngigi Wanjiku
 
-**Backend Developer · Ethical Hacking Learner · CS Final Year**
+**Full Stack Developer · Python & Backend Specialist · Ethical Hacking Student · CS Final Year**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-vincent-wanjiku/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://vincent-terminal-portfolio.onrender.com/)
@@ -13,19 +13,7 @@
 
 ---
 
-Computer Science student and backend developer building practical web systems, AI-powered tools, and network-based solutions. I work across backend engineering, intelligent applications, and fintech integrations — and I'm deepening my skills in cybersecurity and ethical hacking.
-
----
-
-## 🔨 Currently Working On
-
-| Project | Stack | Status |
-|---|---|---|
-| 🏪 Nalai Hardware Shop | Django · Orange Theme | In Progress |
-| 👕 Online Clothing Shop | Django | In Progress |
-| 🌿 Crop Disease AI (Django) | Django · CNN · VGG19 | In Progress |
-| 💼 Personal Portfolio | Flask · Green/Black Theme | Ongoing |
-| 🔐 Ethical Hacking | Cisco NetAcad · Kali Linux | Learning |
+Full stack developer with a strong emphasis on **backend engineering and Python development**. I build practical web systems, AI-powered tools, and network-based solutions — working confidently across the full stack while staying deeply rooted in backend architecture, REST APIs, and server-side logic. I'm also an **ethical hacking student**, actively building skills in penetration testing and secure application development through Cisco Networking Academy.
 
 ---
 
@@ -78,39 +66,12 @@ Computer Science student and backend developer building practical web systems, A
 
 </div>
 
-> **Setup:** Add this workflow to `.github/workflows/snake.yml` in your profile repo to activate the snake animation:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: Kabanye
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
 ---
 
 ## 🎓 Certifications & Courses
 
 ![Cisco](https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Introduction to Cybersecurity](https://img.shields.io/badge/Intro_to_Cybersecurity-Cisco-blue?style=flat&logo=cisco&logoColor=white)
-![Python Essentials](https://img.shields.io/badge/Python_Essentials-Cisco-blue?style=flat&logo=python&logoColor=white)
 ![University of Embu](https://img.shields.io/badge/BSc_Computer_Science-University_of_Embu-green?style=flat&logo=academia&logoColor=white)
 
 > 📌 Replace the badges above with your actual completed Cisco NetAcad courses. You can add a verification link like: `[![Course Name](badge-url)](your-certificate-link)`
@@ -160,10 +121,11 @@ Computer Science student and backend developer building practical web systems, A
 ## About Me
 
 - 🎓 Final-year Computer Science student at the **University of Embu**
-- 🔐 Currently studying ethical hacking through **Cisco Networking Academy**
+- 🐍 Full stack developer with a core specialisation in **Python and backend engineering**
+- 🔐 **Ethical hacking student** — Cisco Networking Academy · Kali Linux · Penetration Testing
 - 🤖 Experienced integrating ML models (CNNs, Prophet) into production-style web apps
 - 📡 Built networking infrastructure tools including M-Pesa-integrated billing systems
-- 💬 Open to internships, collaborations, and backend engineering opportunities
+- 💬 Open to internships, collaborations, and backend or security-focused engineering opportunities
 
 ---
 
