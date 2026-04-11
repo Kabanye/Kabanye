@@ -16,9 +16,13 @@
 
 <div align="center">
 
-Backend-focused Full Stack Developer specialising in **Python, Django, and AI-integrated systems.**
-I build production-style platforms — recommendation engines, forecasting pipelines, and ML-powered web applications.
-Currently seeking **backend engineering or cybersecurity internship opportunities**.
+<div align="center">
+
+Backend-focused Full Stack Developer specializing in **Python, Django, FastAPI, and AI-integrated web systems**.
+I design and build production-style platforms including **recommendation engines, forecasting pipelines, REST APIs, and ML-powered applications**.
+Currently seeking **backend engineering, cybersecurity, IT support, or UI/UX internship opportunities** where I can contribute to real-world, scalable, and user-focused systems.
+
+</div>
 
 </div>
 
@@ -48,42 +52,77 @@ Currently seeking **backend engineering or cybersecurity internship opportunitie
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**🧠 Core Languages**
+
+> Backend-first engineering with Python, supported by JavaScript for full-stack web interfaces.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+---
+
+**⚙️ Backend Frameworks & API Development**
+
+> REST API architecture · authentication systems · recommendation engines (TF-IDF) · forecasting pipelines (Prophet) · ML-powered backend services
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+**🤖 Machine Learning & Data Engineering**
+
+> CNN classification · price forecasting models · recommendation pipelines · dataset preprocessing
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-**Databases & Infrastructure**
+---
 
+**🎨 Frontend & UI Development**
+
+> Interactive dashboards · product search interfaces · AI chat-style layouts · responsive mobile-friendly pages
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+---
+
+**🗄️ Databases & Storage**
+
+> Relational schema design for production-style web applications.
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+---
+
+**🧱 Dev Tools & Infrastructure**
+
+> Linux-based development, deployment preparation, and security practice environments.
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
-**Currently Learning**
+---
+
+**🔐 Currently Learning — Cybersecurity Track**
+
+> Linux security tooling · penetration testing workflows · secure backend development · network security fundamentals
 
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-4CAF50?style=flat&logo=hackthebox&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Cisco NetAcad](https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=flat&logo=cisco&logoColor=white)
-
----
-
 ## ⚙️ Backend Skills
 
 | Domain | Skills |
