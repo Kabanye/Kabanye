@@ -16,13 +16,9 @@
 
 <div align="center">
 
-<div align="center">
-
 Backend-focused Full Stack Developer specializing in **Python, Django, FastAPI, and AI-integrated web systems**.
 I design and build production-style platforms including **recommendation engines, forecasting pipelines, REST APIs, and ML-powered applications**.
 Currently seeking **backend engineering, cybersecurity, IT support, or UI/UX internship opportunities** where I can contribute to real-world, scalable, and user-focused systems.
-
-</div>
 
 </div>
 
@@ -123,6 +119,7 @@ Currently seeking **backend engineering, cybersecurity, IT support, or UI/UX int
 ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-4CAF50?style=flat&logo=hackthebox&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Cisco NetAcad](https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=flat&logo=cisco&logoColor=white)
+
 ## ⚙️ Backend Skills
 
 | Domain | Skills |
@@ -138,12 +135,60 @@ Currently seeking **backend engineering, cybersecurity, IT support, or UI/UX int
 
 ## 📂 Projects
 
-### 📡 NetPulse — WiFi Billing System
-> User access and billing platform for WiFi hotspots with M-Pesa payment integration.
+### 🔎 MyFinder — AI-Powered Shopping Assistant *(Capstone Project)*
+> Product comparison and recommendation platform for the Kenyan e-commerce market (Jumia & Kilimall).
 
-- Usage-based billing logic with M-Pesa STK Push
+- Prophet time-series price forecasting engine (MAE: KES 229.08)
+- TF-IDF + collaborative filtering recommendations (Precision@10: 0.71)
+- RapidFuzz-based deduplication pipeline for scraped product data
+- AI shopping agent (Groq Llama 3.3 70B) with ORM-backed tools for search, recommendations, and price alerts
+
+---
+
+### 🌾 FarmPilot AI — Smart Farming Platform *(In Progress)*
+> Large-scale AI-powered platform for farm, crop, and livestock management.
+
+- Django REST API backend + Flutter mobile app + Django web app
+- NVIDIA AI APIs for disease detection, an AI agronomist chatbot, and yield prediction
+- Phase 1 shipped: role-based JWT authentication (farmer/expert/admin) and REST endpoints for Farm, Crop, and Livestock management
+- Built for small-scale/commercial farmers, extension officers, and cooperatives across Africa
+
+---
+
+### 🔍 ForensiX — Digital Media Forensics & AI Analysis Platform *(In Progress)*
+> Evidence-based forensics platform that analyzes digital files using cryptographic hashing, metadata analysis, file-structure inspection, and AI-generated-content detection.
+
+- Multi-signal evidence correlation engine instead of a single binary AI verdict
+- Cryptographic hashing (SHA-256/SHA-1/MD5), EXIF metadata extraction, and file-structure/signature validation
+- AI-generated-image detection with recorded model version, confidence, and reproducible inference
+- Async analysis pipeline (FastAPI + Celery + Redis) with downloadable forensic case reports
+
+---
+
+### 💰 Kabanye Space — Developer Funding Platform *(In Progress)*
+> Platform enabling communities to financially support developers and their projects.
+
+- FastAPI backend + React (Vite) frontend, PostgreSQL database
+- M-Pesa Daraja API integration for payments
+- Creator profiles, project showcases, and contribution dashboards
+
+---
+
+### 💓 Heartbeat — Service Monitoring Tool
+> Real-time monitoring tool for databases, APIs, and websites — keeps live databases and services from going idle.
+
+- Built with Django REST Framework + React
+- Uptime/health checks across databases, APIs, and websites
+- Designed to prevent free-tier databases from sleeping due to inactivity
+
+---
+
+### 📡 NetPulse — WiFi Billing System
+> Usage-based billing and access-control platform for WiFi hotspots, built as a team effort.
+
+- M-Pesa STK Push integration for billing
 - User session management and admin monitoring dashboard
-- Designed for real-world deployment in ISP and hotspot environments
+- In active use selling WiFi access to students
 
 ---
 
@@ -202,13 +247,14 @@ Currently seeking **backend engineering, cybersecurity, IT support, or UI/UX int
 
 ## About Me
 
-- 🎓 Final-year Computer Science student at the **University of Embu**
+- 🎓 **BSc Computer Science graduate**, University of Embu — Second Class Honours (Upper Division)
 - 🐍 Full stack developer with a core specialisation in **Python and backend engineering**
 - 🔐 **Ethical hacking student** — Cisco Networking Academy · Kali Linux · Penetration Testing
 - 🤖 Experienced integrating ML models (CNNs, TF-IDF, Prophet) into production-style web applications
+- 🏥 Completed IT attachment at Kenneth Matiba Hospital — Windows support, network configuration, Afya KE system
 - 📡 Built networking infrastructure tools including M-Pesa-integrated billing systems
 - 🚀 Deployed real applications on Render with Linux server configuration and production ML inference
-- 💬 Open to internships, collaborations, and backend or security-focused engineering opportunities
+- 💬 Open to internships, graduate roles, and backend or security-focused engineering opportunities
 
 ---
 
