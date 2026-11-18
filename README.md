@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal.svg" width="820" alt="Terminal showing: Vincent Ngigi Wanjiku (Kabanye), backend developer, ethical hacking student" />
+<img src="./assets/terminal.svg" width="820" alt="Terminal showing: Vincent Ngigi Wanjiku (Kabanye), full-stack developer, junior IFS consultant, IT support" />
 
 <br/>
 
@@ -17,20 +17,22 @@
 
 ## `~/about`
 
-I'm a backend developer based in Nairobi. I graduated in August 2026 with a BSc in Computer Science from the University of Embu, Second Class Honours (Upper Division).
+I'm a full-stack developer based in Nairobi, strongest on the backend. I graduated in August 2026 with a BSc in Computer Science from the University of Embu, Second Class Honours (Upper Division).
 
-
+I also work as a junior IFS Cloud consultant on procurement and supply chain, and I do IT support: troubleshooting Windows PCs, installing software, and setting up routers and switches. I'm looking for full-stack, backend, ERP consulting or IT roles.
 
 ## `~/skill-set`
 
 | | |
 |---|---|
-| **Languages** | ![langs](https://skillicons.dev/icons?i=python,go,js,html,css) |
+| **Languages** | ![langs](https://skillicons.dev/icons?i=python,go,js,ts,html,css) |
 | **Backend** | ![backend](https://skillicons.dev/icons?i=django,flask,fastapi) ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white) ![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=gin&logoColor=white) |
+| **Frontend** | ![frontend](https://skillicons.dev/icons?i=react,nextjs) |
 | **Machine learning** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **Frontend** | ![frontend](https://skillicons.dev/icons?i=react) |
 | **Databases** | ![db](https://skillicons.dev/icons?i=postgres,mysql,sqlite) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
 | **Tools** | ![tools](https://skillicons.dev/icons?i=git,linux,kali) |
+| **ERP consulting** | IFS Cloud: Procurement, Supply Chain |
+| **IT support** | Windows, installations, routers and switches |
 
 IFS Certified Practitioner, Procurement Consultant (IFS Cloud). Currently learning penetration testing through Cisco Networking Academy.
 
