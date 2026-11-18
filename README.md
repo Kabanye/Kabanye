@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal.svg" width="820" alt="Terminal showing: Vincent Ngigi Wanjiku (Kabanye), full-stack developer, junior IFS consultant, IT support" />
+<img src="./assets/terminal.svg" width="820" alt="Terminal showing: Vincent Ngigi Wanjiku (Kabanye), full-stack developer, junior IFS consultant, IT support, cybersecurity" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 I'm a full-stack developer based in Nairobi, strongest on the backend. I graduated in August 2026 with a BSc in Computer Science from the University of Embu, Second Class Honours (Upper Division).
 
-I also work as a junior IFS Cloud consultant on procurement and supply chain, and I do IT support: troubleshooting Windows PCs, installing software, and setting up routers and switches. I'm looking for full-stack, backend, ERP consulting or IT roles.
+I also work as a junior IFS Cloud consultant on procurement and supply chain, and I do IT support: troubleshooting Windows PCs, installing software, and setting up routers and switches. On the side I'm training in ethical hacking and penetration testing. I'm looking for full-stack, backend, ERP consulting, IT support or junior cybersecurity roles.
 
 ## `~/skill-set`
 
@@ -31,10 +31,11 @@ I also work as a junior IFS Cloud consultant on procurement and supply chain, an
 | **Machine learning** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 | **Databases** | ![db](https://skillicons.dev/icons?i=postgres,mysql,sqlite) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
 | **Tools** | ![tools](https://skillicons.dev/icons?i=git,linux,kali) |
+| **Cybersecurity** | Ethical hacking, penetration testing basics, network security (learning) |
 | **ERP consulting** | IFS Cloud: Procurement, Supply Chain |
 | **IT support** | Windows, installations, routers and switches |
 
-IFS Certified Practitioner, Procurement Consultant (IFS Cloud). Currently learning penetration testing through Cisco Networking Academy.
+IFS Certified Practitioner, Procurement Consultant (IFS Cloud). Cisco Networking Academy: Introduction to Cybersecurity.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5a0,100:050505&height=90&section=footer" alt="" />
